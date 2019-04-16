@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/PacMan-vs-Ghosts-Agents/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PacMan-vs-Ghosts/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UCS/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PacMan-vs-Ghosts-Tournament/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="com.martiansoftware:hope-and-doubt:0.1.0" level="project" />
+    <orderEntry type="library" name="jsap-2.1" level="project" />
+  </component>
+</module>

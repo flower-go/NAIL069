@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sokoban4j" />
+        <module name="sokoban4j-agents" />
+        <module name="sokoban4j-playground" />
+        <module name="sokoban4j-tournament" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="9">
+      <module name="sokoban4j" target="1.6" />
+      <module name="sokoban4j-agents" target="1.6" />
+      <module name="sokoban4j-playground" target="1.7" />
+      <module name="sokoban4j-tournament" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

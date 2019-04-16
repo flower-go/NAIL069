@@ -1,0 +1,56 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>1.7</source>
+                    <target>1.7</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+    <parent>
+		<groupId>cz.cuni.amis</groupId>
+		<artifactId>amis-pom</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+		<relativePath>../../Poms/AmisPom/pom.xml</relativePath>
+	</parent>
+
+	<groupId>cz.sokoban4j</groupId>
+	<artifactId>sokoban4j-playground</artifactId>
+	<version>0.1.0-SNAPSHOT</version>
+	<packaging>jar</packaging>
+
+	<name>sokoban4j-playground</name>
+	<url>https://github.com/kefik/Sokoban4J</url>
+	
+	<dependencies>
+        <!--
+           SOKOBAN DEPENDENCY
+        -->
+        <dependency>
+            <groupId>cz.sokoban4j</groupId>
+            <artifactId>sokoban4j</artifactId>
+            <version>0.1.0-SNAPSHOT</version>
+        </dependency>
+        
+        <dependency>
+        	<groupId>cz.sokoban4j</groupId>
+			<artifactId>sokoban4j-tournament</artifactId>
+			<version>0.1.0-SNAPSHOT</version>
+        </dependency>
+	</dependencies>
+
+	<repositories>
+		<repository>
+			<id>amis-artifactory</id>
+			<name>AMIS Artifactory</name>
+			<url>http://diana.ms.mff.cuni.cz:8081/artifactory/repo</url>
+		</repository>
+	</repositories>
+</project>

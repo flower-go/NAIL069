@@ -1,0 +1,8 @@
+id;levelFile;levelNumber;agent;result;steps;playTimeMillis
+MyAgent;level0001.s4jl;0;cz.sokoban4j.playground.MyAgent;VICTORY;5;50
+MyAgent;level0002.1.s4jl;0;cz.sokoban4j.playground.MyAgent;VICTORY;13;56
+MyAgent;level0002.2.s4jl;0;cz.sokoban4j.playground.MyAgent;VICTORY;25;42
+MyAgent;level0002.3.s4jl;0;cz.sokoban4j.playground.MyAgent;VICTORY;37;51
+MyAgent;level0003.s4jl;0;cz.sokoban4j.playground.MyAgent;VICTORY;60;138
+MyAgent;level0004.s4jl;0;cz.sokoban4j.playground.MyAgent;VICTORY;69;68
+MyAgent;level0005.s4jl;0;cz.sokoban4j.playground.MyAgent;VICTORY;71;43

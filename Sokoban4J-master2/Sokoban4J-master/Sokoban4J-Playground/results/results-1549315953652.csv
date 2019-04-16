@@ -1,0 +1,2 @@
+id;levelFile;levelNumber;agent;result;steps;playTimeMillis
+MyAgent;level0001.s4jl;0;cz.sokoban4j.playground.MyAgent;VICTORY;5;20

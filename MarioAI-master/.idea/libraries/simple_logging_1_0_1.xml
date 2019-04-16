@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="simple-logging-1.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MarioAI4J/lib/simple-logging-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

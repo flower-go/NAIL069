@@ -1,0 +1,13 @@
+id;levelFile;levelNumber;agent;result;steps;playTimeMillis
+MyAgent;level0001.s4jl;0;cz.sokoban4j.playground.MyAgent;VICTORY;5;22
+MyAgent;level0002.1.s4jl;0;cz.sokoban4j.playground.MyAgent;VICTORY;13;66
+MyAgent;level0002.2.s4jl;0;cz.sokoban4j.playground.MyAgent;VICTORY;25;28
+MyAgent;level0002.3.s4jl;0;cz.sokoban4j.playground.MyAgent;VICTORY;39;35
+MyAgent;level0003.s4jl;0;cz.sokoban4j.playground.MyAgent;VICTORY;64;63
+MyAgent;level0004.s4jl;0;cz.sokoban4j.playground.MyAgent;VICTORY;69;62
+MyAgent;level0005.s4jl;0;cz.sokoban4j.playground.MyAgent;VICTORY;71;113
+MyAgent;level0006.s4jl;0;cz.sokoban4j.playground.MyAgent;VICTORY;104;101
+MyAgent;level0007.s4jl;0;cz.sokoban4j.playground.MyAgent;VICTORY;99;171
+MyAgent;level0008.s4jl;0;cz.sokoban4j.playground.MyAgent;VICTORY;61;90
+MyAgent;level0009.s4jl;0;cz.sokoban4j.playground.MyAgent;VICTORY;93;279
+MyAgent;Aymeric_du_Peloux_3_Nabokosmos.sok;10;cz.sokoban4j.playground.MyAgent;VICTORY;197;520
